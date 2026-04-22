@@ -1,3 +1,16 @@
+## 📸 Demonstração
+
+### API funcionando
+![API](images/api.png)
+
+### Docker rodando
+![Docker](images/docker.png)
+
+### CI/CD no GitHub
+![CI](images/ci.png)
+
+
+
 # Agendafacil
 
 API REST simples de agendamentos desenvolvida com Spring Boot, criada para fins acadêmicos como base para práticas de DevOps (containerização, CI/CD).
