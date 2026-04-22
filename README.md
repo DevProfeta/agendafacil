@@ -1,3 +1,7 @@
+## 🎯 Objetivo do Projeto
+
+Este projeto foi desenvolvido como parte de uma proposta de startup, com foco em automatizar agendamentos de forma simples e eficiente, podendo ser integrado futuramente com WhatsApp e outros canais digitais.
+
 ## 📸 Demonstração
 
 ### API funcionando
