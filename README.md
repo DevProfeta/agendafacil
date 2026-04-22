@@ -1,13 +1,13 @@
 ## 📸 Demonstração
 
 ### API funcionando
-![API](images/api.png)
+![API](images/API.png)
 
 ### Docker rodando
-![Docker](images/docker.png)
+![Docker](images/DOCKER.png)
 
 ### CI/CD no GitHub
-![CI](images/ci.png)
+![CI](images/CI.png)
 
 
 
